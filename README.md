@@ -1,2 +1,2 @@
-# dsh-superagent-sandbox
+# Sandbox
 Sandbox repo watched by dsh-superagent
